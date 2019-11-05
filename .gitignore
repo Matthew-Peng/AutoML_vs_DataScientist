@@ -7,3 +7,7 @@ test.csv
 .ipynb_checkpoints/check_test-checkpoint.ipynb
 .ipynb_checkpoints/EDA-checkpoint.ipynb
 .ipynb_checkpoints/models-checkpoint.ipynb
+*.txt
+*.csv
+.ipynb_checkpoints/models_on_test-checkpoint.ipynb
+.ipynb_checkpoints/test_check-checkpoint.ipynb
