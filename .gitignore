@@ -11,3 +11,4 @@ test.csv
 *.csv
 .ipynb_checkpoints/models_on_test-checkpoint.ipynb
 .ipynb_checkpoints/test_check-checkpoint.ipynb
+*.feather
