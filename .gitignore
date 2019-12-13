@@ -12,3 +12,10 @@ test.csv
 .ipynb_checkpoints/models_on_test-checkpoint.ipynb
 .ipynb_checkpoints/test_check-checkpoint.ipynb
 *.feather
+.ipynb_checkpoints/preprocessing_F_test_set-checkpoint.ipynb
+.ipynb_checkpoints/check_weahter_processed-checkpoint.ipynb
+.ipynb_checkpoints/final_model_for_buildings_on_gab+matthew_features-checkpoint.ipynb
+.ipynb_checkpoints/Final_model_on_gabs_features-checkpoint.ipynb
+.ipynb_checkpoints/final_model_on_test-checkpoint.ipynb
+.ipynb_checkpoints/model_for_buildings_on_gab_features-checkpoint.ipynb
+.ipynb_checkpoints/Preprocessing_F-checkpoint.ipynb
